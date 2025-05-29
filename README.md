@@ -11,7 +11,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** system using 
 
 
 📂 Data
-The project uses Pattern Recognition lecture notes from FAU Erlangen-Nürnberg, processed and embedded into a Pinecone vector store to enable semantic retrieval.
+- The project uses Pattern Recognition lecture notes from FAU Erlangen-Nürnberg, processed and embedded into a Pinecone vector store to enable semantic retrieval.
 
 📦 Technologies Used
 - 🧠 OpenAI or HuggingFace LLMs (configurable)
