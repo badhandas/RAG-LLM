@@ -2,8 +2,8 @@ from langchain.llms import OpenAI
 from langchain_openai import OpenAIEmbeddings
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
-os.environ["PINECONE_API_KEY"] = "89754e31-b3db-495d-8bd2-812a18b1b458"
+os.environ["OPENAI_API_KEY"] = "keyhere"
+os.environ["PINECONE_API_KEY"] = "keyhere"
 
 # App modes
 learn = "Learning mode :book:"
